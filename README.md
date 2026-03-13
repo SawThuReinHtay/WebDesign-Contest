@@ -57,6 +57,29 @@ More screenshots available here:
 
 [View all screenshots](screenshots/)
 
+
 ---
 
-## Project Structure
+## Achievements
+
+- **2nd Place – Web Design Competition**
+- Demonstrated strong UI/UX design and structured content presentation
+
+---
+
+## Future Improvements
+
+- Add a real donation system
+- Integrate a backend for managing NGO projects
+- Implement a blog section for updates
+- Improve accessibility features
+- Add multilingual support
+
+---
+
+## Author
+
+**Saw Thu Rein Htay**  
+Web & Mobile Developer  
+
+Email: thureinrichard3@gmail.com
